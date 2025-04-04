@@ -1,5 +1,7 @@
 # Caso Practico Excel
-En este proyecto se analizará una base de datos de 3 cafeterías pertenecientes a **CityBlend** a fin de conocer los **ingresos** que se obtuvieron en los meses de **enero a junio del año 2024** mediante la herramienta Excel.
+# Descripción del proyecto
+En este proyecto se analizará una base de datos de 3 cafeterías pertenecientes a **CityBlend** a fin de conocer los **ingresos** que se obtuvieron en los meses de **enero a junio del año 2024** mediante la herramienta Excel empleando la utilización de tablas dinámicas.
+# Dashboard
 ![image](https://github.com/user-attachments/assets/335534d8-2ac9-4b8f-89ea-f01ba5ced4e1)
 ## Puntos Clave
 1. El total de **ingresos en el periodo enero - junio 2024** fue de **$698,812.33**, dicha cantidad puede compararse con el semestre anterior para verificar su hubo un **incremento o disminución de ingresos**.
